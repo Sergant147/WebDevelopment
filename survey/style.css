@@ -1,0 +1,44 @@
+body {
+    background-color: red;
+}
+
+h1 {
+    color: orange;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: pink;
+}
+
+.why {
+    color: lightgreen;
+}
+
+.question_link {
+    color: pink;
+    font-weight: bold;
+}
+
+.question_link:hover {
+    color: purple;
+}
+
+.question_answer {
+    color: brown;
+}
+
+.question_answer:hover {
+    background-color: pink
+}
+
+.hoping_link {
+    color: pink
+}
+
+.hoping_link:hover {
+    background: brown
+}

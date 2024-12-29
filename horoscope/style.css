@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.symbol_link {
+    color: pink;
+}
+
+.symbol_link:hover {
+    color: red;
+}
+
+.symbol_button {
+    color: blue;
+    background-color: red;
+}
+
+.symbol_button:hover {
+    color: purple;
+    background-color: blue;
+}
